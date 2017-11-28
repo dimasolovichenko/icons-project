@@ -1,0 +1,80 @@
+@font-face {
+  font-family: 'dsicons';
+  src:  url('fonts/dsicons.eot?1h4u47');
+  src:  url('fonts/dsicons.eot?1h4u47#iefix') format('embedded-opentype'),
+    url('fonts/dsicons.ttf?1h4u47') format('truetype'),
+    url('fonts/dsicons.woff?1h4u47') format('woff'),
+    url('fonts/dsicons.svg?1h4u47#dsicons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+i {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dsicons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.dsicon-tv:before {
+  content: "\e900";
+}
+.dsicon-search:before {
+  content: "\e901";
+}
+.dsicon-key:before {
+  content: "\e902";
+}
+.dsicon-video:before {
+  content: "\e903";
+}
+.dsicon-star:before {
+  content: "\e904";
+}
+.dsicon-bulb:before {
+  content: "\e905";
+}
+.dsicon-camera:before {
+  content: "\e906";
+}
+.dsicon-cloud:before {
+  content: "\e907";
+}
+.dsicon-diamond:before {
+  content: "\e908";
+}
+.dsicon-display:before {
+  content: "\e909";
+}
+.dsicon-heart:before {
+  content: "\e910";
+}
+.dsicon-lock:before {
+  content: "\e911";
+}
+.dsicon-pen:before {
+  content: "\e912";
+}
+.dsicon-settings:before {
+  content: "\e913";
+}
+.dsicon-sound:before {
+  content: "\e914";
+}
+.dsicon-tag:before {
+  content: "\e915";
+}
+.dsicon-trash:before {
+  content: "\e916";
+}
+.dsicon-user:before {
+  content: "\e917";
+}
